@@ -28,7 +28,8 @@
 
 ## デモ動画
 
-[![YouTube Shorts](https://img.youtube.com/vi/xtzoYeqc3O0/maxresdefault.jpg)](https://youtube.com/shorts/xtzoYeqc3O0)
+[![YouTube Shorts](https://img.youtube.com/vi/xtzoYeqc3O0/hqdefault.jpg)](https://www.youtube.com/watch?v=xtzoYeqc3O0)
+
 
 ## 卒論
 
