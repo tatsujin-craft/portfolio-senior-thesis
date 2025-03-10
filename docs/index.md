@@ -11,6 +11,14 @@ title: 卒業研究の紹介
 
 [![YouTube Shorts](https://img.youtube.com/vi/xtzoYeqc3O0/hqdefault.jpg)](https://www.youtube.com/watch?v=xtzoYeqc3O0)
 
+## 卒論
+
+### 卒業研究の概要書
+[📂研究概要書のPDFを開く](abstract.pdf){:target="_blank"}
+
+### 卒業論文
+[📂卒論のPDFを開く](senior_thesis.pdf){:target="_blank"}
+
 
 ## システム
 
@@ -36,12 +44,4 @@ title: 卒業研究の紹介
 
 <img src="images/trashbot2.jpg" width="45%"> <img src="images/circuit.jpg" width="45%"> 
 
-
-## 卒論
-
-### 卒業研究の概要書
-[📂研究概要書のPDFを開く](abstract.pdf){:target="_blank"}
-
-### 卒業論文
-[📂卒論のPDFを開く](senior_thesis.pdf){:target="_blank"}
 
