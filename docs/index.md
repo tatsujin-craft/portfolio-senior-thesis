@@ -9,6 +9,16 @@ title: 卒業研究の紹介
 
 ## デモ動画
 
+卒業研究で制作したゴミ箱ロボット「TashBot」のデモ動画
+
+<video controls width="640">
+  <source src="movies/trashbot_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+下記、YouTube版
+
 [![YouTube Shorts](https://img.youtube.com/vi/xtzoYeqc3O0/hqdefault.jpg)](https://www.youtube.com/watch?v=xtzoYeqc3O0)
 
 ## 卒論
