@@ -1,3 +1,9 @@
+# 卒業研究
+
+## ポートフォリオ
+
+[ポートフォリオのページを開く](https://tatsujin-craft.github.io/portfolio-senior-thesis/)
+
 ## 研究テーマ
 スマートホーム環境における
 発話者の位置・姿勢推定を用いたロボットの音声操作
